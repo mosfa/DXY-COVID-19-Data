@@ -207,14 +207,14 @@
             "provinceName": "阿尔及利亚",
             "provinceShortName": "阿尔及利亚",
             "provinceEnglishName": "Algeria",
-            "currentConfirmedCount": 25,
-            "confirmedCount": 37,
+            "currentConfirmedCount": 27,
+            "confirmedCount": 39,
             "suspectedCount": 0,
             "curedCount": 10,
-            "deadCount": 2,
+            "deadCount": 3,
             "cities": null,
             "comment": "",
-            "updateTime": 1584192742091
+            "updateTime": 1584220732000
         },
         {
             "locationId": 953007,
